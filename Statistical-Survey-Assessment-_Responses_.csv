@@ -1,0 +1,273 @@
+GR Number,Branch,Gender,Division,Height,Weight,CGPA,SGPA,Clubs
+22010707,Computer Science,M,D,172cm,50kg,9.75,9.08,0
+22010739,Computer Science,F,B,153,43,9.70,10,"Cec, rc bharatvarsh"
+22010824,Computer Science,M,B,177cm,68kgs,9.70,9.8,1
+22010364,Computer Science,M,A,165 cm,55 Kgs,10.00,9.71,0
+22010300,Computer Science,F,A,167.64,60.5,10.00,10,1
+22010477,Computer Science,M,B,169.0 cm,63kgs,10.00,9.93,1
+22010744,Computer Science,F,A,156,44,10.00,9.96,0
+22010465,Computer Science,M,B,178,52,9.91,10,1
+22011171,Computer Science,F,C,161.5 cm,42.6 kgs,9.72,9.82,3
+22010362,Computer Science,F,B,163,43,9.80,10,None 
+22010087,Computer Science,F,C,157.48cm,65kg,9.70,9.6,Non
+22010051,Computer Science,M,C,172,65,9.70,9.83,0
+22010366,Computer Science,F,B,160.02 cm,38,9.93,10,2
+22010538,Computer Science,M,A,173.5,76.2,10.00,10,2
+22010139,Computer Science,M,C,176,70,9.60,9.5,1
+22010794,Computer Science,F,C,162 cm,60,10.00,9.5,1
+22010227,Computer Science,M,C,178,65,9.50,9.8,0
+22010403,Computer Science,M,B,170,60,9.88,9.82,1
+22010882,Computer Science,M,C,168,65,9.70,9.65,1
+22010384,Computer Science,M,C,165,52,9.40,9.13,EDC
+22010316,Computer Science,F,B,156,65,10.00,10,NIL
+22010305,Computer Science,M,C,180,70,9.65,9.45,0
+22010096,Computer Science,M,C,173,98,9.65,9.42,Volleyball 
+22010724,Computer Science,M,B,152,58,9.11,9.71,0
+22010528,Computer Science,M,D,174.5,73.5,9.86,9.93,1
+22010004,Computer Science,M,C,175cm,54 kg,9.56,9.75,1
+22010065,Computer Science,M,B,185.00 cm,91.0 Kgs,8.10,8.4,0
+22010236,Computer Science,M,B,175,63,9.81,9.81,NSS
+22010072,Mechanical Engineering,M,B,181,85,8.90,8.o,2
+22010870,Computer Science,M,B,181,100,9.50,9.4,0
+22010961,Computer Science,M,B,181,75,10.00,10,4
+22010618,Mechanical Engineering,M,B,164.59,41,9.29,9.39,1
+22010802,Mechanical Engineering,M,B,173 cm,62kg,8.88,8.63,0
+22010939,Computer Science,M,B,175,70.4,9.79,9.25,2
+22010494,Computer Science,F,B,165,45.4,9.90,9.8,4
+22010268,Mechanical Engineering,F,B,5.6,72,9.53,8.88,None 
+22010493,Computer Science,M,B,176,55,10.00,9.82,0
+22010440,Computer Science,M,B,179,65,9.70,9.6,6
+22010035,Computer Science,M,B,183,77,9.30,7.5,  
+22011187,Computer Science,M,B,175,80,9.60,9.5,0
+22011161,Computer Science,F,B,170.68,58.40 Kgs,9.40,9.57,2
+22010486,Computer Science,M,C,179.4 cm,50 kg,9.87,9.85,1
+22010599,Computer Science,M,B,175.5,65.6,9.70,9.67,0
+22010878,Computer Science,M,B,186,85,9.90,9.8,1
+22010194,Computer Science,M,B,170,94,9.84,9.9,2
+22010900,Computer Science,M,C,207.26 cm,60 Kgs,9.59,9.58,Zero
+22010644,Mechanical Engineering,M,B,177,56,10.00,9.6,3
+22010639,Computer Science,M,D,101.6,64,9.80,9.57,Cybercell VIIT 
+22011205,Computer Science,M,C,174,70,9.80,9.9,2
+22010849,Mechanical Engineering,M,B,168 cm,57.0 kg,8.60,8.2,Vishwaracers Baja
+22011070,Computer Science,M,D,181,60,9.70,9.2,2
+22010317,Computer Science,M,B,168cm,62.3kgs,9.65,9.45,Nil
+22010402,Computer Science,M,B,184 cm,65kg,9.81,10,2
+22010580,Computer Science,M,B,179,59,10.00,10,1
+22010184,Computer Science,M,B,170,81,9.50,9.17,1
+22120152,Computer Science,M,C,172,58,9.70,9.4,0
+22010301,Computer Science,M,B,167,68,9.86,9.76,No
+22010145,Computer Science,F,B,159,50,9.50,9.6,None
+22120216,Mechanical Engineering,F,B,157cm,51,9.50,DSY,3
+22120294,Mechanical Engineering,M,B,175 cm,70 cm,9.50,Direct second year student ,2
+22120028,Computer Science,M,B,180cm,77,9.50,96.74%,None
+22120021,Mechanical Engineering,M,B,185 cm,61kg,9.50,DSE STUDENT ,BRACT's Vishwakarma Institute of Information Technology 
+22120086,Mechanical Engineering,F,B,169.05,44.5,9.50,Dse,2
+22120048,Mechanical Engineering,M,B,183,85,9.50,DSE,1
+22120065,Mechanical Engineering,M,B,176,47,9.50,DSE,1
+22120112,Mechanical Engineering,F,B,157.9,44,9.50,Dse,Mesa
+22120105,Mechanical Engineering,F,B,152,47,9.50,DSE,1
+22010909,Computer Science,M,B,176,46,9.90,9.9,0
+22010360,Computer Science,M,B,167,71,9.90,9.9,1
+22120045,Mechanical Engineering,M,B,185,90,9.50,DSE,2
+22120097,Mechanical Engineering,M,B,185,67,9.50,Dse,No
+22011133,Computer Science,M,B,173.33 cm,62.5 kg,9.40,9.2,1
+22120088,Mechanical Engineering,F,B,173,48,9.50,DSE,2
+22120120,Mechanical Engineering,M,B,174,62,9.50,DSE student,1
+22010851,Computer Science,M,B,166,52,9.93,9.79,0
+22120273,Mechanical Engineering,M,B,172,52,9.50,.,1
+22010752,Mechanical Engineering,M,B,170,78 kg,8.84,7.86,0
+22011172,Computer Science,M,B,174.1,70.3,10.00,9.93,0
+22010766,Computer Science,M,B,173.34 cm,65.5 kgs,9.50,8.96,2
+22011040,Computer Science,M,B,172,48,8.30,8.1,0
+22010047,Computer Science,M,B,173,69,9.60,9.84,3
+22010439,Computer Science,M,B,164 CM,55,9.71,9.57,1 ( Rotaract Club of VIIT) 
+22010860,Computer Science,M,B,180.3,60,9.73,9.54,1
+22010406,Computer Science,M,A,155,49.7,9.70,125/150,1
+22010254,Computer Science,F,B,156 cm,57 kg,9.56,9.65,0
+22010381,Computer Science,M,A,173.1,90,9.90,9.9,1
+22010333,Computer Science,M,A,177.8 cm,85.3 kgs,9.90,9.9,1
+22010295,Computer Science,F,B,160cm,67Kgs,9.22,9.46,0
+22010435,Computer Science,F,B,153,67,9.79,9.38,0
+22010845,Computer Science,M,C,184,74,10.00,10,3
+22010722,Computer Science,M,B,172.27,66.7,9.80,9.79,One
+22010428,Computer Science,M,B,172,70.5,9.30,9.3,0
+22010532,Computer Science,M,B,167.6,67.5,9.80,9.5,1
+22010741,Computer Science,M,B,177 cm,70,9.75,9.34,0
+22010011,Computer Science,M,C,164 cm,50.8 Kgs,9.60,9.8,2
+22011062,Computer Science,F,B,155.4,40.2,9.80,9.7,4
+22010529,Computer Science,M,B,167.2 cm,55,9.54,9.17,0
+22010678,Computer Science,M,C,173.2,84.6,9.91,10,2
+22010449,Computer Science,F,B,152cm,47,9.59,9.5,0
+22010368,Computer Science,M,B,182.5,82.6,9.60,9.5,0
+22120008,Computer Science,M,B,180.34 cm,85 kg,9.50,96.29%,1
+22010690,Computer Science,F,B,164 cm,52 Kgs,9.93,9.88,none
+223032,Computer Science,M,C,173,67,9.80,9.7,0
+22120179,Computer Science,F,C,147 cm,42,9.50,DSY,_
+22010557,Computer Science,M,C,170,75,9.54,9.54,1
+22011046,Computer Science,M,D,175,58 kg,9.80,9.7,3
+22010674,Computer Science,M,C,176 cm,66 kg,9.75,9.46,None
+22120059,Computer Science,F,B,147 cm,58,9.50,Diploma third sem: 87.63,No
+22010473,Computer Science,F,C,156,50.1,10.00,10,2
+22010069,Computer Science,M,C,173.736,63.05,9.30,9.83,"CSI, TedX, CyberCell "
+22010328,Computer Science,M,A,175,56.9,9.70,9.6,1
+22010130,Computer Science,M,C,171cm,66.5kg,9.40,9.5,1) EDC
+22120034,Computer Science,F,B,170 cm,62 kg,9.60,86.5,No
+22120073,Computer Science,M,B,176,50,9.60,81,none
+22010502,Computer Science,M,B,174.6,76,9.83,9.84,2
+22120195,Computer Science,M,B,163.00 cm ,50kg,9.00,9.6,Vishwakarma institute of information technology
+22120103,Computer Science,F,B,162 cm,57.9 kgs,9.50,Diploma Third Sem : 81.22,0
+22010163,Computer Science,M,B,178,87,9.80,10,0
+22010059,Computer Science,F,B,152.4 cm,50 kg,9.56,9.22,2
+22010601,Computer Science,M,C,180.34 cm,55 kg,8.97,7.45,0
+22010321,Computer Science,M,B,177cm,72kgs,9.54,9.79,1
+22010726,Computer Science,M,B,171.4,42,9.50,8.07,0
+22010517,Computer Science,M,C,180.9,103,9.87,9.67,0
+22011198,Computer Science,M,C,160,60,9.50,9.4,4
+22010318,Computer Science,M,B,169cm,70.6,9.45,9.17,0
+22010976,Computer Science,M,B,171.2,59.4,9.60,9.4,3
+22011157,Computer Science,M,C,177.8 cm,62.2,10.00,9.5,2
+22120137,Computer Science,F,B,152,36.1,9.50,92.6,0
+22120068,Computer Science,M,B,167cm,60,9.50,94,0
+22010374,Computer Science,M,A,162.5 cm,48.4,9.40,9.3,0
+22010386,Computer Science,M,C,178,64.9,9.75,10,1
+22011168,Computer Science,M,C,186 cm ,78Kgs,9.80,9.88,0
+22011110,Computer Science,M,C,160,65,9.32,9.32,0
+22010928,Computer Science,M,B,176.78,58kg,9.68,8.92,None
+223008,Computer Science,F,C,165,53,9.60,7.5,Blockchain club
+22011125,Computer Science,F,C,164.54,60,9.93,9.92,0
+22010930,Computer Science,F,B,165 cm,53 kg,9.70,9.7,3
+22120082,Computer Science,F,B,154 centimeter,40 kg,9.50,88.29%,0
+22010292,Computer Science,F,C,176.78,48.5,9.29,9.41,1
+22011105,Computer Science,M,B,170.2,65.1,9.73,9.64,1
+22010967,Computer Science,M,A,182.2,50,10.00,10,1
+22010815,Computer Science,M,B,153,43,8.72,9.42,0
+22010817,Computer Science,M,D,164.6,68,9.88,9.42,2
+22010703,Computer Science,M,B,167.5,63.5,9.40,9.6,0
+22120150,Computer Science,M,C,172,72,9.67,9.67,IEEE Student Branch VIIT
+22011003,Computer Science,M,B,180.34,54,9.79,9.63,0
+22011115,Computer Science,M,C,182,72.5,9.90,9.8,3
+22010085,Computer Science,M,B,180 cm,85 kg ,9.65,9.6,0
+22010458,Computer Science,M,A,165,68,9.86,9.86,1
+22120167,Computer Science,M,C,178,68,10.00,10,2
+22010201,Computer Science,M,D,178 cm,77 kgs,10.00,9.83,2
+22010587,Computer Science,M,C,167.6,70,9.60,9.7,0
+22011078,Computer Science,M,A,172cm,63,8.97,9.32,Aavishkar
+22010483,Computer Science,M,A,175 cm,70.5kgs,9.80,9.5,None
+22010574,Computer Science,M,A,172.6,50,9.50,9.75,0
+22010993,Computer Science,M,A,160,57,9.90,9.9,3
+22010044,Computer Science,F,A,164.5,52.5,8.90,9.2,1
+22010798,Computer Science,M,A,175,57.5,10.00,10,IOT
+22120015,Computer Science,M,A,190.5 cm,76,9.50,NA,1
+22120281,Computer Science,M,A,168,54.5,9.50,na,0
+22120232,Computer Science,M,A,157.48,68.5,9.20,9,0
+22011017,Computer Science,M,A,175.50cm,79.3 kg,9.86,9.81,1
+22120123,Computer Science,M,A,179.1,56.8,9.50,0,0
+22010610,Computer Science,M,A,173,79.8,9.79,9.67,None 
+22010855,Computer Science,M,A,182.88 cm,55 kg's,9.70,9.74,2
+22010570,Computer Science,F,A,170.18 cm,72.5 kg,9.59,9.83,1 (Aavishkar)
+22010787,Computer Science,M,A,180.00cm,75.00 Kgs,9.60,9,4
+22010700,Computer Science,M,A,185,69.9,9.80,9.78,None
+22010484,Computer Science,M,A,180,61,9.79,9.51,none
+22120252,Computer Science,M,A,183 cm,72.5 kg ,9.60,Null,None
+22010931,Computer Science,M,A,175,75,9.60,9.8,2
+22120276,Computer Science,M,A,182.88,54.4,9.60,None,None
+22120064,Computer Science,M,A,177,67,9.50,Not Conducted DSY = 89.33 %,EDC
+22011164,Computer Science,M,A,165,57.4,9.80,10,2
+22010866,Computer Science,M,A,165cm,60 kg,9.70,9.7,2
+22120243,Computer Science,M,A,161 cm ,76 kgs,9.50,Null,2
+22010015,Computer Science,M,A,175,72,9.43,9.44,0
+22010918,Computer Science,M,A,173,69,9.60,9.6,0
+22120234,Computer Science,M,A,180,74.5,9.50,Null,Null
+22010037,Computer Science,M,A,176.25,88.5,9.69,9.5,"Symposium VIIT, Blockchain Forum VIIT"
+22010800,Computer Science,M,A,180,65.3,9.81,9.79,No
+22010351,Computer Science,M,A,179.8,90,9.81,9.79,0
+22120186,Computer Science,M,A,173.7,70kg,9.50,Null,Null
+221083,Computer Science,F,A,165,40,9.50,Null,None
+22010680,Computer Science,M,A,170,50,9.79,9.75,2
+22010895,Computer Science,F,A,162.56 cm,64 Kgs,9.63,9.58,0
+22010708,Computer Science,M,A,180,67 Kgs,9.45,10,1
+22120054,Computer Science,F,A,153,49,9.50,NA,0
+22010206,Computer Science,M,A,167.64,68.8,9.75,9.5,0
+22010431,Computer Science,F,A,160,59.5,9.60,9.4,3
+22010780,Computer Science,M,A,165,49,9.93,9.87,1
+22010749,Computer Science,M,A,165,58,10.00,9.8,-
+22120029,Computer Science,M,A,180,55,9.40,9.4,EDC
+22010131,Computer Science,M,D,177.8,68.4,9.73,9.73,0
+22010539,Computer Science,M,D,167,58,9.80,9.7,2
+22010764,Computer Science,F,D,153.86,45.6,9.80,9.57,2
+22010738,Computer Science,M,D,173.4,77.7,9.50,9.3,0
+22010524,Computer Science,M,D,172 cm,52,9.70,9.5,3
+22010444,Computer Science,M,D,175cm,58kg,9.93,9.69,NA
+22010886,Computer Science,M,D,180,73,9.86,9.75,1
+22011055,Computer Science,M,D,165 cm,55 kgs,8.72,8.81,None 
+22010375,Computer Science,M,D,180,62,9.80,9.7,2
+22010562,Computer Science,M,D,180 cm,63 kg,9.90,9.8,0
+22010624,Computer Science,F,D,158.94,45,9.93,9.91,  
+22010410,Computer Science,M,D,15.74,61,9.59,9.08,1
+22010770,Computer Science,M,D,167.6,71.4,10.00,10,1
+22010214,Computer Science,M,D,154.32,54,8.10,8.2,VIIT
+22010023,Computer Science,M,D,180 cm ,57 kgs ,9.82,9.68,2
+22010061,Computer Science,M,A,170 cm,48,9.50,9.54,2
+22010211,Computer Science,M,D,170,54,9.88,9.72,0
+22011030,Computer Science,M,D,159.6,52,9.10,9.1,0
+22010805,Computer Science,M,D,170.18 cm,65,9.72,9.58,0
+22010043,Computer Science,M,D,180,63,9.30,9.6,Entrepreneurship development cell
+22010492,Computer Science,F,D,158.49,40,9.80,9.78,2
+22010223,Computer Science,M,D,179,68,9.81,9.71,0
+22011114,Computer Science,F,D,169,58,9.80,9.6,0
+22120100,Computer Science,M,A,170.1,55,9.50,NA,0
+22010012,Computer Science,M,D,155.45,51,9.93,9.79,0
+22010598,Computer Science,M,A,173cm,50kg,9.26,9.29,-
+22011002,Computer Science,M,D,178.4,75.3,10.00,9.67,1
+22120069,Computer Science,M,A,170,76,9.50,NA,0
+22010446,Computer Science,F,D,157,67,9.75,9.54,7
+22010927,Computer Science,M,D,176,54,9.10,8.6,"CEC,Blockchain club, physics reasearch club"
+22010250,Computer Science,M,C,170,57,9.57,9.79,4
+22010861,Computer Science,M,D,183,65,9.27,8.54,2
+22010801,Computer Science,M,D,192,61,9.70,9.5,1
+22010020,Computer Science,M,D,175,74.8,9.45,8.88,None
+22010507,Computer Science,F,D,163,62,9.80,9.46,0
+22010349,Computer Science,M,A,175,70,9.79,9.5,0
+22010425,Computer Science,F,D,156,48,10.00,9.2,1
+22010108,Computer Science,M,D,172,72,8.70,8.7,4
+22010230,Computer Science,M,A,174,70,10.00,9.79,1
+224030,Computer Science,M,D,170,78,9.80,9.7,2
+22010379,Computer Science,M,D,174,65,9.86,8.14,3
+22010288,AI and DS,M,B,172,75,10.00,9.86,"CEC, AISA"
+22010064,Information Technology,M,C,180,74,9.36,9.16,None
+22010459,Mechanical Engineering,M,C,178,58,9.81,9.46,0
+22010202,Electronics and Telecommunication Eng,M,B,179,93,9.20,9.02,0
+22010017,Electronics and Telecommunication Eng,M,B,175,89,9.60,8.5,0
+22010692,Electronics and Telecommunication Eng,M,B,6ft,60kg,9.38,9.38,1
+22010205,Electronics and Telecommunication Eng,F,B,160,57.5,9.93,9.2,1
+22010344,Information Technology,M,C,166,69,10.00,9.6,ITSF
+22010073,Information Technology,F,C,159,45.6,9.60,9.3,0
+22011144,Electronics and Telecommunication Eng,M,C,178,63,9.80,9.38,"LIGHTHOUSE, EESA, WEC"
+22011167,Information Technology,F,C,178,46,9.75,9.65,5 college clubs 
+22010590,AI and DS,M,A,172 cm,68,9.70,9.8,2
+22010846,Electronics and Telecommunication Eng,F,B,154,50,9.04,8.34,EDC
+22010633,Information Technology,M,C,167,60,7.95,5.95,0
+22120168,Information Technology,M,C,160,65,9.50,null,P
+22010315,Information Technology,M,C,175,60,9.79,9.5,1
+22010441,Information Technology,M,B,165.1cm,52,9.60,8.6,0
+233024,Information Technology,M,C,181,68.9,9.81,9.71,1
+22010148,Information Technology,M,C,170.10 cm,62.00 kgs,9.76,9.2,1
+22010423,Information Technology,F,C,168,65,9.70,9.5,2
+22010040,Computer Science,M,A,153.2,77.6,8.90,9.05,1
+22011026,Mechanical Engineering,M,C,150 cm ,50,9.10,91,Vishwakarma college
+22010294,Mechanical Engineering,M,C,183,74,9.40,9.2,1
+22010606,Electronics and Telecommunication Eng,M,B,180.8,68 Kgs,8.90,8.66,RCVIIT . ROBOTICS . AANTARIKSH
+22010089,Mechanical Engineering,M,B,183.2cm,68.2kgs,8.80,8.6,None
+22010751,Computer Science,M,D,182.9,75.1,9.95,9.92,Na
+22010117,Computer Science,M,D,185.42,100,9.80,9.5,1
+22010537,Computer Science,M,D,177.0 cm,52.5 kgs,9.86,9.25,0
+22011027,Electronics and Telecommunication Eng,M,B,178,52,9.54,8.5,0
+22010408,Information Technology,M,C,165,46,9.40,8.3,0
+22120290,Information Technology,F,B,165.1 cm,63 kg,9.50,-,-
+22010816,Electronics and Telecommunication Eng,M,B,190.5,79.8,9.80,9.25,1
+22010984,Mechanical Engineering,F,A,153.5 cm,57.6,9.86,10,1
+22120240,Mechanical Engineering,F,B,159.1,47.5,9.50,Null,1 (Vishwa racers)
+22010026,Information Technology,M,C,177,69,8.86,9.05,1
+22120009,Computer Science,M,B,155.7528,65,8.40,96.7,0
+22010677,Computer Science,F,A,151,47,9.80,9.8,No
+22010192,Computer Science,M,D,177.8,62,9.10,-,0
